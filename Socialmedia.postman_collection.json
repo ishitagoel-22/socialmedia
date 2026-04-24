@@ -1,0 +1,35 @@
+{
+  "info": {
+    "_postman_id": "e961ff23-40a6-4d06-85be-892f13836b74",
+    "name": "Socialmedia",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "51711336",
+    "_collection_link": "https://go.postman.co/collection/51711336-e961ff23-40a6-4d06-85be-892f13836b74?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Create Post",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Like Post",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Comment Post",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
